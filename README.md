@@ -1,8 +1,8 @@
 # P1---Breast-Cancer-Prediction
- Breast cancer prediction using Feedforward Neural Network
+Breast cancer prediction using Deep Learning Feedforward Neural Network
 
 ## 1. Project Summary
-This project is carried out to construct and build a model that can predict Breast Cancer disease based on the features given in the dataset. The labels are classification problem where the results are either "Maglinant" or "Benign". Deep learning approach is implemented by building a Feedforward Neural Network for this project. The data is retrived from this [Link](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
+This project is carried out to construct and build a model that can predict Breast Cancer disease based on the features given in the dataset. The labels are classification problem where the results are either "Maglinant" or "Benign". Deep learning approach is implemented by building a Feedforward Neural Network for this project. The data is retrived from this [Link here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
 ## 2. IDE and Framework
 The project is carried out in Jupyter Notebook as the main IDE and trained via Google Colab. The main frameworks used in this project are TensorFlow, Numpy, Matplotlib, and Scikit-learn.
